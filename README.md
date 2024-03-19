@@ -1,1 +1,1 @@
-# Huffman coding in a file zipper with C++ enables efficient data compression, resource optimization, faster data transmission, cost savings, enhanced data security, and application in embedded systems.
+# zipperFile
